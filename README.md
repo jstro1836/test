@@ -1,6 +1,14 @@
 # test
 
 # Brief Introduction
+Data Science Skills
 
-I'm 32 years old and originally from Texas. I am married and have one child. I'm currently pursuing a degree in data science to enhance my technical and quantitative skills. 
+Math 2
+Statistics 3
+Data Visualization 3
+Machine Learning 2
+Communication 4
+Domain Expertise 3
+Computer Science 2
+
 
